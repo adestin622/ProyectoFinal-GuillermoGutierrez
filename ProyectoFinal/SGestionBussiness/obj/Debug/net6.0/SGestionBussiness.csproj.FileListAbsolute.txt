@@ -1,0 +1,17 @@
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionBussiness\bin\Debug\net6.0\SGestionBussiness.deps.json
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionBussiness\bin\Debug\net6.0\SGestionBussiness.dll
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionBussiness\bin\Debug\net6.0\SGestionBussiness.pdb
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionBussiness\obj\Debug\net6.0\SGestionBussiness.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionBussiness\obj\Debug\net6.0\SGestionBussiness.AssemblyInfoInputs.cache
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionBussiness\obj\Debug\net6.0\SGestionBussiness.AssemblyInfo.cs
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionBussiness\obj\Debug\net6.0\SGestionBussiness.csproj.CoreCompileInputs.cache
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionBussiness\obj\Debug\net6.0\SGestionBussiness.dll
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionBussiness\obj\Debug\net6.0\refint\SGestionBussiness.dll
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionBussiness\obj\Debug\net6.0\SGestionBussiness.pdb
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionBussiness\obj\Debug\net6.0\ref\SGestionBussiness.dll
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionBussiness\bin\Debug\net6.0\SGestionData.dll
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionBussiness\bin\Debug\net6.0\SGestionEntities.dll
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionBussiness\bin\Debug\net6.0\SGestionData.pdb
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionBussiness\bin\Debug\net6.0\SGestionEntities.pdb
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionBussiness\obj\Debug\net6.0\SGestionBussiness.csproj.AssemblyReference.cache
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionBussiness\obj\Debug\net6.0\SGestion.BEBD3F57.Up2Date

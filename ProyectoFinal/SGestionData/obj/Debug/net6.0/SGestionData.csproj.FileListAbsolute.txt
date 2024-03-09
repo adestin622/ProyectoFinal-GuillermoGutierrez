@@ -1,0 +1,17 @@
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionData\bin\Debug\net6.0\SGestionData.deps.json
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionData\bin\Debug\net6.0\SGestionData.runtimeconfig.json
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionData\bin\Debug\net6.0\SGestionData.dll
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionData\bin\Debug\net6.0\SGestionData.pdb
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionData\obj\Debug\net6.0\SGestionData.csproj.AssemblyReference.cache
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionData\obj\Debug\net6.0\SGestionData.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionData\obj\Debug\net6.0\SGestionData.AssemblyInfoInputs.cache
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionData\obj\Debug\net6.0\SGestionData.AssemblyInfo.cs
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionData\obj\Debug\net6.0\SGestionData.csproj.CoreCompileInputs.cache
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionData\obj\Debug\net6.0\SGestionData.dll
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionData\obj\Debug\net6.0\refint\SGestionData.dll
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionData\obj\Debug\net6.0\SGestionData.pdb
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionData\obj\Debug\net6.0\SGestionData.genruntimeconfig.cache
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionData\obj\Debug\net6.0\ref\SGestionData.dll
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionData\bin\Debug\net6.0\SGestionEntities.dll
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionData\bin\Debug\net6.0\SGestionEntities.pdb
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionData\obj\Debug\net6.0\SGestion.F32983BB.Up2Date

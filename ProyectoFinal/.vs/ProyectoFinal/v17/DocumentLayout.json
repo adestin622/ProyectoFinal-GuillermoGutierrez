@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F40314B8-F0BE-44EF-81C2-0EB81CAFD450}|SGestionData\\SGestionData.csproj|e:\\curso c# - coderhouse\\proyecto final\\proyectofinal\\sgestiondata\\datacontext\\sgestioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40314B8-F0BE-44EF-81C2-0EB81CAFD450}|SGestionData\\SGestionData.csproj|solutionrelative:sgestiondata\\datacontext\\sgestioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0963476-0CBD-4312-A728-862C41DDD284}|ProyectoFinal\\ProyectoFinal.csproj|E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\proyectofinal\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0963476-0CBD-4312-A728-862C41DDD284}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757A61DB-A7AC-49E6-86B8-9089FDC6736D}|SGestionBussiness\\SGestionBussiness.csproj|E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\sgestionbussiness\\ventabussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757A61DB-A7AC-49E6-86B8-9089FDC6736D}|SGestionBussiness\\SGestionBussiness.csproj|solutionrelative:sgestionbussiness\\ventabussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40314B8-F0BE-44EF-81C2-0EB81CAFD450}|SGestionData\\SGestionData.csproj|E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\sgestiondata\\entitycontext\\ventumcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40314B8-F0BE-44EF-81C2-0EB81CAFD450}|SGestionData\\SGestionData.csproj|solutionrelative:sgestiondata\\entitycontext\\ventumcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0963476-0CBD-4312-A728-862C41DDD284}|ProyectoFinal\\ProyectoFinal.csproj|e:\\curso c# - coderhouse\\proyecto final\\proyectofinal\\proyectofinal\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0963476-0CBD-4312-A728-862C41DDD284}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757A61DB-A7AC-49E6-86B8-9089FDC6736D}|SGestionBussiness\\SGestionBussiness.csproj|E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\sgestionbussiness\\usuariobussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757A61DB-A7AC-49E6-86B8-9089FDC6736D}|SGestionBussiness\\SGestionBussiness.csproj|solutionrelative:sgestionbussiness\\usuariobussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0963476-0CBD-4312-A728-862C41DDD284}|ProyectoFinal\\ProyectoFinal.csproj|E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\proyectofinal\\controllers\\productovendidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0963476-0CBD-4312-A728-862C41DDD284}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\controllers\\productovendidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757A61DB-A7AC-49E6-86B8-9089FDC6736D}|SGestionBussiness\\SGestionBussiness.csproj|E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\sgestionbussiness\\productovendidobussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757A61DB-A7AC-49E6-86B8-9089FDC6736D}|SGestionBussiness\\SGestionBussiness.csproj|solutionrelative:sgestionbussiness\\productovendidobussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BDE034-70A1-4311-AE40-77C7602C1F04}|SGestionEntities\\SGestionEntities.csproj|E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\sgestionentities\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BDE034-70A1-4311-AE40-77C7602C1F04}|SGestionEntities\\SGestionEntities.csproj|solutionrelative:sgestionentities\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0963476-0CBD-4312-A728-862C41DDD284}|ProyectoFinal\\ProyectoFinal.csproj|E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\proyectofinal\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0963476-0CBD-4312-A728-862C41DDD284}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BDE034-70A1-4311-AE40-77C7602C1F04}|SGestionEntities\\SGestionEntities.csproj|E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\sgestionentities\\productovendido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BDE034-70A1-4311-AE40-77C7602C1F04}|SGestionEntities\\SGestionEntities.csproj|solutionrelative:sgestionentities\\productovendido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BDE034-70A1-4311-AE40-77C7602C1F04}|SGestionEntities\\SGestionEntities.csproj|E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\sgestionentities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BDE034-70A1-4311-AE40-77C7602C1F04}|SGestionEntities\\SGestionEntities.csproj|solutionrelative:sgestionentities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40314B8-F0BE-44EF-81C2-0EB81CAFD450}|SGestionData\\SGestionData.csproj|E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\sgestiondata\\entitycontext\\productovendidocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40314B8-F0BE-44EF-81C2-0EB81CAFD450}|SGestionData\\SGestionData.csproj|solutionrelative:sgestiondata\\entitycontext\\productovendidocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757A61DB-A7AC-49E6-86B8-9089FDC6736D}|SGestionBussiness\\SGestionBussiness.csproj|E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\sgestionbussiness\\productobussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757A61DB-A7AC-49E6-86B8-9089FDC6736D}|SGestionBussiness\\SGestionBussiness.csproj|solutionrelative:sgestionbussiness\\productobussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40314B8-F0BE-44EF-81C2-0EB81CAFD450}|SGestionData\\SGestionData.csproj|E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\sgestiondata\\entitycontext\\productocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40314B8-F0BE-44EF-81C2-0EB81CAFD450}|SGestionData\\SGestionData.csproj|solutionrelative:sgestiondata\\entitycontext\\productocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BDE034-70A1-4311-AE40-77C7602C1F04}|SGestionEntities\\SGestionEntities.csproj|E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\sgestionentities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BDE034-70A1-4311-AE40-77C7602C1F04}|SGestionEntities\\SGestionEntities.csproj|solutionrelative:sgestionentities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0963476-0CBD-4312-A728-862C41DDD284}|ProyectoFinal\\ProyectoFinal.csproj|E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\proyectofinal\\controllers\\nombrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0963476-0CBD-4312-A728-862C41DDD284}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\controllers\\nombrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40314B8-F0BE-44EF-81C2-0EB81CAFD450}|SGestionData\\SGestionData.csproj|E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\sgestiondata\\entitycontext\\usuariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40314B8-F0BE-44EF-81C2-0EB81CAFD450}|SGestionData\\SGestionData.csproj|solutionrelative:sgestiondata\\entitycontext\\usuariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SGestionContext.cs",
+              "DocumentMoniker": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\SGestionData\\DataContext\\SGestionContext.cs",
+              "RelativeDocumentMoniker": "SGestionData\\DataContext\\SGestionContext.cs",
+              "ToolTip": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\SGestionData\\DataContext\\SGestionContext.cs",
+              "RelativeToolTip": "SGestionData\\DataContext\\SGestionContext.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAIAzwDgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T20:40:52.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\SGestionEntities\\Venta.cs",
+              "RelativeDocumentMoniker": "SGestionEntities\\Venta.cs",
+              "ToolTip": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\SGestionEntities\\Venta.cs",
+              "RelativeToolTip": "SGestionEntities\\Venta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:53:14.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\SGestionEntities\\Usuario.cs",
+              "RelativeDocumentMoniker": "SGestionEntities\\Usuario.cs",
+              "ToolTip": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\SGestionEntities\\Usuario.cs",
+              "RelativeToolTip": "SGestionEntities\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:53:00.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductoVendido.cs",
+              "DocumentMoniker": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\SGestionEntities\\ProductoVendido.cs",
+              "RelativeDocumentMoniker": "SGestionEntities\\ProductoVendido.cs",
+              "ToolTip": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\SGestionEntities\\ProductoVendido.cs",
+              "RelativeToolTip": "SGestionEntities\\ProductoVendido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:52:46.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\SGestionEntities\\Producto.cs",
+              "RelativeDocumentMoniker": "SGestionEntities\\Producto.cs",
+              "ToolTip": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\SGestionEntities\\Producto.cs",
+              "RelativeToolTip": "SGestionEntities\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:52:25.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VentumContext.cs",
+              "DocumentMoniker": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\SGestionData\\EntityContext\\VentumContext.cs",
+              "RelativeDocumentMoniker": "SGestionData\\EntityContext\\VentumContext.cs",
+              "ToolTip": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\SGestionData\\EntityContext\\VentumContext.cs",
+              "RelativeToolTip": "SGestionData\\EntityContext\\VentumContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:48:28.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsuarioContext.cs",
+              "DocumentMoniker": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\SGestionData\\EntityContext\\UsuarioContext.cs",
+              "RelativeDocumentMoniker": "SGestionData\\EntityContext\\UsuarioContext.cs",
+              "ToolTip": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\SGestionData\\EntityContext\\UsuarioContext.cs",
+              "RelativeToolTip": "SGestionData\\EntityContext\\UsuarioContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:48:24.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductoVendidoContext.cs",
+              "DocumentMoniker": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\SGestionData\\EntityContext\\ProductoVendidoContext.cs",
+              "RelativeDocumentMoniker": "SGestionData\\EntityContext\\ProductoVendidoContext.cs",
+              "ToolTip": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\SGestionData\\EntityContext\\ProductoVendidoContext.cs",
+              "RelativeToolTip": "SGestionData\\EntityContext\\ProductoVendidoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:48:20.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductoContext.cs",
+              "DocumentMoniker": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\SGestionData\\EntityContext\\ProductoContext.cs",
+              "RelativeDocumentMoniker": "SGestionData\\EntityContext\\ProductoContext.cs",
+              "ToolTip": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\SGestionData\\EntityContext\\ProductoContext.cs",
+              "RelativeToolTip": "SGestionData\\EntityContext\\ProductoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:48:11.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VentaBussiness.cs",
+              "DocumentMoniker": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\SGestionBussiness\\VentaBussiness.cs",
+              "RelativeDocumentMoniker": "SGestionBussiness\\VentaBussiness.cs",
+              "ToolTip": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\SGestionBussiness\\VentaBussiness.cs",
+              "RelativeToolTip": "SGestionBussiness\\VentaBussiness.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwDAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:47:35.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioBussiness.cs",
+              "DocumentMoniker": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\SGestionBussiness\\UsuarioBussiness.cs",
+              "RelativeDocumentMoniker": "SGestionBussiness\\UsuarioBussiness.cs",
+              "ToolTip": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\SGestionBussiness\\UsuarioBussiness.cs",
+              "RelativeToolTip": "SGestionBussiness\\UsuarioBussiness.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAzwFwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:47:16.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductoVendidoBussiness.cs",
+              "DocumentMoniker": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\SGestionBussiness\\ProductoVendidoBussiness.cs",
+              "RelativeDocumentMoniker": "SGestionBussiness\\ProductoVendidoBussiness.cs",
+              "ToolTip": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\SGestionBussiness\\ProductoVendidoBussiness.cs",
+              "RelativeToolTip": "SGestionBussiness\\ProductoVendidoBussiness.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowA8AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:47:05.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductoBussiness.cs",
+              "DocumentMoniker": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\SGestionBussiness\\ProductoBussiness.cs",
+              "RelativeDocumentMoniker": "SGestionBussiness\\ProductoBussiness.cs",
+              "ToolTip": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\SGestionBussiness\\ProductoBussiness.cs",
+              "RelativeToolTip": "SGestionBussiness\\ProductoBussiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:46:21.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\ProyectoFinal\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Controllers\\VentaController.cs",
+              "ToolTip": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\ProyectoFinal\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "ProyectoFinal\\Controllers\\VentaController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:45:41.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\ProyectoFinal\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Controllers\\UsuarioController.cs",
+              "ToolTip": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\ProyectoFinal\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ProyectoFinal\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAQwE4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:45:16.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoVendidoController.cs",
+              "DocumentMoniker": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\ProyectoFinal\\Controllers\\ProductoVendidoController.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Controllers\\ProductoVendidoController.cs",
+              "ToolTip": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\ProyectoFinal\\Controllers\\ProductoVendidoController.cs",
+              "RelativeToolTip": "ProyectoFinal\\Controllers\\ProductoVendidoController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwCAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:44:55.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\ProyectoFinal\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Controllers\\ProductoController.cs",
+              "ToolTip": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\ProyectoFinal\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "ProyectoFinal\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAwAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:43:14.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NombreController.cs",
+              "DocumentMoniker": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\ProyectoFinal\\Controllers\\NombreController.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Controllers\\NombreController.cs",
+              "ToolTip": "E:\\Curso C# - CoderHouse\\Proyecto Final\\ProyectoFinal\\ProyectoFinal\\Controllers\\NombreController.cs",
+              "RelativeToolTip": "ProyectoFinal\\Controllers\\NombreController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:42:27.835Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

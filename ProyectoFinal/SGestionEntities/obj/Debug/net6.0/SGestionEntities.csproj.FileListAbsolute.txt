@@ -1,0 +1,14 @@
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionEntities\bin\Debug\net6.0\SGestionEntities.deps.json
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionEntities\bin\Debug\net6.0\SGestionEntities.runtimeconfig.json
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionEntities\bin\Debug\net6.0\SGestionEntities.dll
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionEntities\bin\Debug\net6.0\SGestionEntities.pdb
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionEntities\obj\Debug\net6.0\SGestionEntities.csproj.AssemblyReference.cache
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionEntities\obj\Debug\net6.0\SGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionEntities\obj\Debug\net6.0\SGestionEntities.AssemblyInfoInputs.cache
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionEntities\obj\Debug\net6.0\SGestionEntities.AssemblyInfo.cs
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionEntities\obj\Debug\net6.0\SGestionEntities.csproj.CoreCompileInputs.cache
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionEntities\obj\Debug\net6.0\SGestionEntities.dll
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionEntities\obj\Debug\net6.0\refint\SGestionEntities.dll
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionEntities\obj\Debug\net6.0\SGestionEntities.pdb
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionEntities\obj\Debug\net6.0\SGestionEntities.genruntimeconfig.cache
+E:\Curso C# - CoderHouse\Proyecto Final\ProyectoFinal\SGestionEntities\obj\Debug\net6.0\ref\SGestionEntities.dll
